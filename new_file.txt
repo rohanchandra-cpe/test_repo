@@ -1,2 +1,4 @@
-Hello! This file is to represent new changes being made on a feature branch. I am doing this to teach myself how to merge and rebase
-
+Hello! This file is to represent new changes being made on a feature branch. I am doing this to teach myself how to merge and rebase.
+This is an example of another change to be committed. This one is a useful change
+This will be a USELESS change
+I will make one more USELESS change here. And I mean an utterly DISGUSTING change
